@@ -45,7 +45,7 @@ h1, h2, h3 {
     /* --- skryti prvku --- */
     /* display: none; */
     /* visibility: hidden; */
-    /* opacity: 0; */
+    opacity: 0; 
 
 }
 

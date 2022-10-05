@@ -4,7 +4,10 @@ html { box-sizing: border-box; }
 
 
 .ramecek {
-    border-bottom:	4px double pink;
+    border-bottom:	4px dashed rgb(192, 255, 196);
+    margin-top: 10px;
+    margin: 10px 5px 10px 5px;
+    margin: 10px 5px;
 }
 
 .sirka {
@@ -17,6 +20,7 @@ html { box-sizing: border-box; }
 
 body {
    margin: 0; 
+   font-family: 'Roboto', 'Arial', 'sans-serif'
 }
 
 .box {
